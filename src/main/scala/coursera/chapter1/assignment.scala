@@ -93,7 +93,7 @@ object Main {
       // case: small <= money
       var sum = 0;
       for(coin <- coins if coin <= money) {
-        sum += countChangeRecursive(money - coin, coins.filter { _ >= coin })
+        sum += count2(money - coin, coins.filter { _ >= coin })
       }
       sum
     }
