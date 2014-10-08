@@ -3,7 +3,7 @@
  :cache-dir "/home/anster/github/coursera-scala/.ensime_cache"
  :name "coursera-scala"
  :java-home "/usr/lib/jvm/java-8-oracle"
- :java-flags ("-Xms1024m" "-Xmx1024m" "-XX:ReservedCodeCacheSize=128m")
+ :java-flags ("-Xms1024m" "-Xmx1024m" "-XX:ReservedCodeCacheSize=128m" "-XX:MaxPermSize=256m")
  :reference-source-roots ("/usr/lib/jvm/java-8-oracle/src.zip")
  :scala-version "2.11.2"
  :compiler-args nil
