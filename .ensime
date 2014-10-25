@@ -13,7 +13,7 @@
    :module-name "coursera-scala"
    :source-roots ("/home/anster/github/coursera-scala/src/main/scala" "/home/anster/github/coursera-scala/src/main/java" "/home/anster/github/coursera-scala/src/test/scala" "/home/anster/github/coursera-scala/src/test/java")
    :target "/home/anster/github/coursera-scala/target/scala-2.11/classes"
-   :test-target "/home/anster/github/coursera-scala/target/scala-2.11/test-classes"
+   :test-targets ("/home/anster/github/coursera-scala/target/scala-2.11/test-classes")
    :depends-on-modules nil
    :compile-deps ("/home/anster/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.2.jar")
    :runtime-deps nil
