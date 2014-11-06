@@ -1,7 +1,7 @@
 (
- :root-dir "/home/anster/github/coursera-scala"
- :cache-dir "/home/anster/github/coursera-scala/.ensime_cache"
- :name "coursera-scala"
+ :root-dir "/home/anster/github/programming-language/functional-progiramming-in-scala"
+ :cache-dir "/home/anster/github/programming-language/functional-progiramming-in-scala/.ensime_cache"
+ :name "functional-progiramming-in-scala"
  :java-home "/usr/lib/jvm/java-8-oracle"
  :java-flags ("-Xms1024m" "-Xmx1024m" "-XX:ReservedCodeCacheSize=128m")
  :reference-source-roots ("/usr/lib/jvm/java-8-oracle/src.zip")
@@ -9,11 +9,11 @@
  :compiler-args nil
  
  :subprojects ((
-   :name "coursera-scala"
-   :module-name "coursera-scala"
-   :source-roots ("/home/anster/github/coursera-scala/src/main/scala" "/home/anster/github/coursera-scala/src/main/java" "/home/anster/github/coursera-scala/src/test/scala" "/home/anster/github/coursera-scala/src/test/java")
-   :target "/home/anster/github/coursera-scala/target/scala-2.11/classes"
-   :test-targets ("/home/anster/github/coursera-scala/target/scala-2.11/test-classes")
+   :name "functional-progiramming-in-scala"
+   :module-name "functional-progiramming-in-scala"
+   :source-roots ("/home/anster/github/programming-language/functional-progiramming-in-scala/src/main/scala" "/home/anster/github/programming-language/functional-progiramming-in-scala/src/main/java" "/home/anster/github/programming-language/functional-progiramming-in-scala/src/test/scala" "/home/anster/github/programming-language/functional-progiramming-in-scala/src/test/java")
+   :target "/home/anster/github/programming-language/functional-progiramming-in-scala/target/scala-2.11/classes"
+   :test-targets ("/home/anster/github/programming-language/functional-progiramming-in-scala/target/scala-2.11/test-classes")
    :depends-on-modules nil
    :compile-deps ("/home/anster/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.2.jar")
    :runtime-deps nil
