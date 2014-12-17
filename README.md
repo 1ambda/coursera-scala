@@ -12,13 +12,15 @@ by Martin Odersky
 [Chapter 6](http://1ambda.github.io/functional-programming-in-scala-chapter-6/)  
 [Chapter 7](http://1ambda.github.io/functional-programming-in-scala-chapter-7/)  
 
+### Reactive Programming
+
+[Chapter 1](http://1ambda.github.io/reactive-programming-1/) - Monads, Random Generators  
+
 ### Programming Language
 
 **Programming Language** by *Dan Grossman*, Coursera
 
 [Chapter 1](http://1ambda.github.io/programming-language-week1/)  
-
-### Reactive Programming
 
 
 
