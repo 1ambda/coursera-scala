@@ -33,7 +33,7 @@ object Generators {
   // }
 
   def single[T](x: T): Generator[T] = new Generator[T] {
-    def generator = x
+    def generate = x
   }
 
   def choose(l: Int, h: Int): Generator[Int] =
