@@ -1,7 +1,7 @@
 (
- :root-dir "/home/anster/github/programming-language/reactive-programming"
- :cache-dir "/home/anster/github/programming-language/reactive-programming/.ensime_cache"
- :name "reactive-programming"
+ :root-dir "/home/anster/github/programming-language/reactive-programming/lecture"
+ :cache-dir "/home/anster/github/programming-language/reactive-programming/lecture/.ensime_cache"
+ :name "lecture"
  :java-home "/usr/lib/jvm/java-8-oracle"
  :java-flags ("-Xms1024m" "-Xmx1024m" "-XX:ReservedCodeCacheSize=128m")
  :reference-source-roots ("/usr/lib/jvm/java-8-oracle/src.zip")
@@ -9,11 +9,11 @@
  :compiler-args nil
  
  :subprojects ((
-   :name "reactive-programming"
-   :module-name "reactive-programming"
-   :source-roots ("/home/anster/github/programming-language/reactive-programming/src/main/scala" "/home/anster/github/programming-language/reactive-programming/src/main/java" "/home/anster/github/programming-language/reactive-programming/src/test/scala" "/home/anster/github/programming-language/reactive-programming/src/test/java")
-   :target "/home/anster/github/programming-language/reactive-programming/target/scala-2.11/classes"
-   :test-targets ("/home/anster/github/programming-language/reactive-programming/target/scala-2.11/test-classes")
+   :name "lecture"
+   :module-name "lecture"
+   :source-roots ("/home/anster/github/programming-language/reactive-programming/lecture/src/main/scala" "/home/anster/github/programming-language/reactive-programming/lecture/src/main/java" "/home/anster/github/programming-language/reactive-programming/lecture/src/test/scala" "/home/anster/github/programming-language/reactive-programming/lecture/src/test/java")
+   :target "/home/anster/github/programming-language/reactive-programming/lecture/target/scala-2.11/classes"
+   :test-targets ("/home/anster/github/programming-language/reactive-programming/lecture/target/scala-2.11/test-classes")
    :depends-on-modules nil
    :compile-deps ("/home/anster/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.2.jar")
    :runtime-deps nil

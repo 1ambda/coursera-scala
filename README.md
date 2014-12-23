@@ -15,6 +15,8 @@ by Martin Odersky
 ### Reactive Programming
 
 [Chapter 1](http://1ambda.github.io/reactive-programming-1/) - Monads, Random Generators  
+[Chapter 2](http://1ambda.github.io/reactive-programming-2/) - Stateful Object  
+[Chapter 3](http://1ambda.github.io/reactive-programming-3/) - Try, Future, Promise   
 
 ### Programming Language
 
