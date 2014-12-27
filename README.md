@@ -18,6 +18,7 @@ by Martin Odersky
 [Chapter 2](http://1ambda.github.io/reactive-programming-2/) - Stateful Object  
 [Chapter 3](http://1ambda.github.io/reactive-programming-3/) - Try, Future, Promise   
 [Chapter 4](http://1ambda.github.io/reactive-programming-4/) - Observable, Rx, Scheduler  
+[Chapter 5](http://1ambda.github.io/reactive-programming-5/) - Actor   
 
 ### Programming Language
 
